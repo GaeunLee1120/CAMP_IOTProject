@@ -1,4 +1,4 @@
-# CAMP_IOTProject
+# CAMP_IOT Project
 
 # :ferris_wheel:최종 프로젝트 대비 스테이션 제작:ferris_wheel:
 ---------------------
